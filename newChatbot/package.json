@@ -1,0 +1,14 @@
+{
+  "name": "newchatbot",
+  "version": "1.0.0",
+  "description": "openAI chatbot",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Aymane Nefdaoui",
+  "license": "ISC"
+}
